@@ -1,0 +1,3 @@
+/home/sidharth/SP/CPP/waveGuide1/CMakeFiles/main.dir
+/home/sidharth/SP/CPP/waveGuide1/CMakeFiles/edit_cache.dir
+/home/sidharth/SP/CPP/waveGuide1/CMakeFiles/rebuild_cache.dir
